@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>地図 on かな子のカナダ留学記</title>
+    <link>https://working-holiday.github.io/map/</link>
+    <description>Recent content in 地図 on かな子のカナダ留学記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 09 Apr 2018 17:58:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://working-holiday.github.io/map/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
