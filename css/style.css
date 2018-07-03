@@ -836,7 +836,10 @@ a.article-title:hover {
     font-size: 1.6em;
   }
   .article-entry p {
-    font-size: 1.1em;
+    font-size: 1.2em;
+  }
+  .article-entry ul {
+    font-size: 1rem;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 799px) {
@@ -844,12 +847,18 @@ a.article-title:hover {
     font-size: 1.6em;
   }
   .article-entry p {
-    font-size: 1.1em;
+    font-size: 1.2em;
+  }
+  .article-entry ul {
+    font-size: 1rem;
   }
 }
 @media screen and (min-width: 800px) {
   .article-entry p {
     font-size: 1.2em;
+  }
+  .article-entry ul {
+    font-size: 1rem;
   }
 }
 .article-meta {
