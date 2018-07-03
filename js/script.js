@@ -3,7 +3,7 @@
     // Caption
     $('.article-entry').each(function(i){
         $(this).find('img').each(function(){
-            if ($(this).parent().hasClass('fancybox')) {
+            if ($(this).parent().hasClass('fancybox') || $(this).is('.disabled')) {
                 return;
             }
             var alt = this.alt;
