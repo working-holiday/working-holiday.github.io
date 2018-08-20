@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://working-holiday.github.io/post/life/sim/</loc>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://working-holiday.github.io/post/life/alcohol/</loc>
     <lastmod>2018-08-01T10:00:00-04:00</lastmod>
   </url>
@@ -34,12 +39,19 @@
   
   <url>
     <loc>https://working-holiday.github.io/post/</loc>
-    <lastmod>2018-08-01T10:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://working-holiday.github.io/tags/sim/</loc>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://working-holiday.github.io/tags/</loc>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,13 +63,13 @@
   
   <url>
     <loc>https://working-holiday.github.io/</loc>
-    <lastmod>2018-08-01T10:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://working-holiday.github.io/tags/%E3%82%AB%E3%83%8A%E3%83%80/</loc>
-    <lastmod>2018-08-01T10:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,13 +81,13 @@
   
   <url>
     <loc>https://working-holiday.github.io/tags/%E3%83%88%E3%83%AD%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2018-07-05T17:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://working-holiday.github.io/tags/%E3%83%AF%E3%83%BC%E3%83%9B%E3%83%AA/</loc>
-    <lastmod>2018-07-02T17:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,7 +99,7 @@
   
   <url>
     <loc>https://working-holiday.github.io/categories/%E6%9A%AE%E3%82%89%E3%81%97/</loc>
-    <lastmod>2018-08-01T10:00:00-04:00</lastmod>
+    <lastmod>2018-08-05T17:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
