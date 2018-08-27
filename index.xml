@@ -6,10 +6,42 @@
     <description>Recent content on かな子のカナダ留学記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Aug 2018 17:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 17:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://working-holiday.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>T-mobileのSIMを手に入れた後はチャージをしよう！My T-mobileのアカウントの作り方と使い方</title>
+      <link>https://working-holiday.github.io/post/life/sim3/</link>
+      <pubDate>Sun, 12 Aug 2018 17:00:00 -0400</pubDate>
+      
+      <guid>https://working-holiday.github.io/post/life/sim3/</guid>
+      <description>前回は、T-mobileのプリペイドSIMの購入の仕方についてご紹介しました。
+購入した後1ヶ月はそのまま使えますが、その後はチャージをしなければ継続されません。今回は、チャージ、プランの変更の方法についてご紹介します！
+プラン更新の仕組み T-mobileのプリペイドプランは、アカウントにお金をチャージしておき、その残高からプラン金額が引き落とされて、プランが更新される仕組みになっています。
+例えば、「T-Mobile ONE Prepaid」プランを選択していたとします。1ヶ月あたり$75なので、支払いするときには、アカウントの残高に$75を追加します。そうすると、もう1ヶ月使えるようになります。
+注意点としては、残高が不足していてプランが更新できていない状況でチャージした場合、支払い後、すぐにプランの更新がされてしまいます。なので、もしプランの変更をしたい場合は、チャージする前 に行いましょう。
+チャージ、プラン変更の方法 どちらも電話か、オンラインのMy T-mobileから行えます。
+電話を使う方法 電話といっても、人間のオペレータが出るわけではなくすべて自動音声です。なので英語が多少できなくても、あまり心配しなくても良い感じです（ただし、ガイダンスは英語なので、ある程度のリスニング能力は必要）。
+もしインターネット環境がない場合は、「*611」か「+1-877-778-2106」に電話しましょう。
+チャージには、デビットカード、クレジットカード、チェック、プリペイドカードが使えます。
+My T-mobileを使う方法 といっても、このご時世インターネット環境がないところはそこまで多くないと思うので、オンラインのMy T-mobileを使うのが一番便利なのかなと思います。
+日本からでも変更できますしね。
+というわけで、My T-mobileのアカウントの作成方法、チャージ方法、オプションの変更方法をご紹介します。
+My T-mobileのアカウント作成 まずは、My T-mobileのアカウントを作成します。
+T-mobileのサイトから、「My T-Mobile」を選択します。
+「SIGN UP」からアカウントを作成します。
+   「First Name」、「Last Name」、「Phone Number（T-mobileのSIMの携帯番号）」、「Email」、「Password」を入力します。
+そうすると、携帯にSMSで6桁の confirmation（またはverification） codeが送られてきますので、入力します。
+これで、アカウントが作成されました。
+Emailアドレス宛てにメールも来ているはずなので、確認しましょう。
+My T-mobileでのチャージ方法 アカウント作成時に設定したEmailアドレス（または電話番号）、パスワードでログインします。
+   ログイン画面   ログインすると、ダッシュボードが表示されます。ここで、データの使用量の確認も行えます。
+   ダッシュボード画面   「Refill Account」から支払ページを表示します。
+支払いには、電話と同じくデビットカード、クレジットカード、チェックが使えます。
+   支払方法選択画面   クレジットカード（またはデビットカード）を使う場合は、「USE A CREDIT CARD」を選択しましょう。</description>
+    </item>
     
     <item>
       <title>カナダに入国する前にアメリカでT-MobileのプリペイドSIMを手に入れよう！</title>
