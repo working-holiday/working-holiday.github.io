@@ -1,3 +1,108 @@
 #main-nav .fa, .article-title .fa {
   color: #EC5D57;
 }
+
+.postcard {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid #eceff2;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+.postcard div:before,
+.postcard div:after {
+  content: "";
+  display: table;
+}
+.postcard div:after {
+  clear: both;
+}
+.postcard div .no-thumbnail {
+  padding: 10px 0px;
+}
+.postcard .item-thumbnail {
+  opacity: 1;
+  float: left;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.postcard .item-thumbnail .thumbnail {
+  margin-right: 10px;
+  width: 80px;
+  height: 80px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+.postcard .item-thumbnail .thumbnail span {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.postcard .item-thumbnail .thumbnail .thumbnail-image {
+  position: absolute;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+.postcard div .item-thumbnail .thumbnail .thumbnail-none {
+  background-image: url("images/thumb-default-small.png");
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.postcard div .item-inner a,
+.postcard div .item-inner .item-category {
+  text-transform: uppercase;
+}
+.postcard div .item-inner a a,
+.postcard div .item-inner .item-category a {
+  color: #EC5D57;
+}
+.postcard div .item-inner a a:hover,
+.postcard div .item-inner .item-category a:hover {
+  color: #333;
+}
+.postcard div .item-inner a a,
+.postcard div .item-inner .item-category a,
+.postcard div .item-inner a .fa,
+.postcard div .item-inner .item-category .fa {
+  margin-right: 5px;
+}
+.postcard div .item-inner .item-title {
+  font-size: 15px;
+}
+.postcard div .item-inner .item-title a {
+  color: #333;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.postcard div .item-inner .item-date {
+  color: #aaa;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.postcard div:hover .item-thumbnail {
+  opacity: 0.8;
+}
+.postcard div:hover .item-title a {
+  color: #EC5D57;
+}
+.postcard p {
+  margin: 0;
+  padding: 0;
+}
+.postcard .item-title {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+.postcard .item-description {
+  margin: 3px;
+  font-size: 0.8em;
+}
